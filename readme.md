@@ -16,8 +16,8 @@ sudo apt install python3-opencv python3-numpy python3-picamera2 --no-install-rec
 ### Cloner le dépôt avec tout le nécessaire (scripts + damier)
 
 ```bash
-git clone https://github.com/franciscorb/calibration-picamera2.git
-cd calibration-picamera2
+git clone https://github.com/isc-bit-busters/RobotCameraCalibration.git
+cd RobotCameraCalibration
 ```
 
 ---
